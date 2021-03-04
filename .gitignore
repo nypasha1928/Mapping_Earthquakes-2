@@ -1,3 +1,7 @@
+# Ignore the config.js file.
+config.js
+./Simple_Map/config.js
+
 # Compiled class file
 *.class
 
